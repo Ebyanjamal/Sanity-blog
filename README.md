@@ -1,11 +1,5 @@
-# Sanity Blogging Content Studio
+<img width="1417" alt="Screen Shot 2023-06-27 at 12 34 07 PM" src="https://github.com/Ebyanjamal/Sanity-blog/assets/116683467/2ec27abf-4d66-4976-9f4f-aad94e118dd1">
 
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
+I am introducing My one of kind Blog using robust Sanity and Next.js to create an intellectual application
 
-Now you can do the following things:
 
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- Check out the example frontend: [React/Next.js](https://github.com/sanity-io/tutorial-sanity-blog-react-next)
-- [Read the blog post about this template](https://www.sanity.io/blog/build-your-own-blog-with-sanity-and-next-js?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
